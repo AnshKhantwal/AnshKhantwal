@@ -85,9 +85,9 @@
 
 ## 📊 GitHub Stats
 
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshKhantwal&show_icons=true&theme=radical)
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshKhantwal&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshKhantwal&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshKhantwal&layout=compact&theme=radical&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnshKhantwal&theme=radical)
 
