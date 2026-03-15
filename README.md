@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ansh Khantwal
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00C2FF&width=500&lines=Full+Stack+Developer;Final+Year+B.Tech+CSE+Student;Angular+%7C+Node.js+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00C2FF&width=500&lines=Full+Stack+Developer;Final+Year+B.Tech+CS+Student;Angular+%7C+Node.js+Developer)](https://git.io/typing-svg)
 
 ---
 
